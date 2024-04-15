@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Decentralize Database**
 
-- 🌱 I’m currently learning **Blockchain & Phython**
+- 🌱 I’m currently learning **Blockchain & Golang**
 
 - 👯 I’m looking to collaborate on **Decentralize Browser**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [seekware.in](seekware.in)
 
-- 💬 Ask me about **Laravel, PHP, React, Angular, Vue, NodeJS, TailwindCSS**
+- 💬 Ask me about **Laravel, PHP, React, Angular, Vue, NodeJS, NextJS, React Native, MySQL, MQTT, Redis, AWS, TailwindCSS**
 
 - 📫 How to reach me **vinaygupta771@gmail.com**
 
