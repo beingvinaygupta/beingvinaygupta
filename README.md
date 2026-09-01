@@ -1,6 +1,6 @@
 # Vinay Gupta
 
-**Senior Full Stack Engineer** • **System Architect** • **14 Years Building Software**
+**Senior Full Stack Engineer** • **System Architect** • **12 Years Building Software**
 
 After more than a decade in software development, I've learned that the best solutions often come from deeply understanding the problem first. I specialize in building scalable web applications and distributed systems that solve real business challenges.
 
